@@ -1,5 +1,5 @@
 int soma (int array[], int qtd){
-    int rs =0;
+    int rs = l0;
     int x;
     for(x =0; x < qtd ; x++){
         rs += array[x];
